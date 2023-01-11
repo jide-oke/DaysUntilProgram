@@ -36,20 +36,6 @@ public class dayTracker {
 		System.out.println(convertPeriodToString(localDateTest.until(myObj)));
 		System.out.println("---------------------");
 		System.out.println("Thank you for using this program!");
-			
-		/*System.out.println("Date Saved!");
-		System.out.println("---------------------");
-		System.out.println(convertPeriodToString(localDateTest.until(myObj)));
-		System.out.println("---------------------");
-		
-		System.out.println("Display Saved Dates? y/n");
-			Scanner yesOrNo = new Scanner(System.in);
-			String answer = yesOrNo.nextLine();
-			if (answer.equals("y")) {
-				System.out.println(localDateTest.format(myFormatObj));
-			} else {
-				System.out.println("Thank you for using this program!");
-			}*/
 	
 		
 	}
